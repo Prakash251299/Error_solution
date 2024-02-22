@@ -1,0 +1,2 @@
+git config --global --add safe.directory '*'
+In place of '*' provide specific project folder in which this error occurs, still if it doesn't work then use '*'.
